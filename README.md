@@ -22,7 +22,7 @@ The following **stretch** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='/Users/anni00/Documents/AnnaliceNi/SimpleTodo/SimpleTodoDemo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Walkthrough] (SimpleTodoDemo.gif)
 
 ## Notes
 
